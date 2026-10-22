@@ -1,1 +1,2 @@
+manufacture
 stock-logistics-workflow
